@@ -1,0 +1,13 @@
+name: KCHungerGames
+main: me.XxN1ghtmar3xX.KCHungerGames.KCHungerGames
+version: 1.0
+description: Hungergames!
+commands:
+  kit:
+    description: Choose your kit.
+    aliases: [kits]
+permissions:
+  kit.hobo: {description: Hobo Kit}
+  kit.assassin: {description: Assassin Kit}
+usage: |
+      /<command> [kitname]
